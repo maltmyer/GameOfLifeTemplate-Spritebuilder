@@ -274,7 +274,7 @@
 												<array>
 													<real>0.5</real>
 													<real>45</real>
-													<integer>2</integer>
+													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
 												</array>
@@ -493,8 +493,8 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>90</real>
-													<integer>2</integer>
+													<real>0.0</real>
+													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
 												</array>
@@ -713,8 +713,8 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>90</real>
-													<integer>2</integer>
+													<real>0.0</real>
+													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
 												</array>
@@ -933,8 +933,8 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>90</real>
-													<integer>2</integer>
+													<real>5</real>
+													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
 												</array>
@@ -1202,8 +1202,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1530,6 +1528,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
