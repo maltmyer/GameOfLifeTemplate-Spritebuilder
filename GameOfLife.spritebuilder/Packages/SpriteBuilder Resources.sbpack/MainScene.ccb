@@ -273,7 +273,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>45</real>
+													<real>71</real>
 													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
@@ -286,8 +286,8 @@
 												<string>Point</string>
 												<key>value</key>
 												<array>
-													<real>0.46299618482589722</real>
-													<real>-1.2099609375</real>
+													<real>0.5</real>
+													<real>0.5</real>
 												</array>
 											</dict>
 											<dict>
@@ -493,7 +493,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>0.0</real>
+													<real>56</real>
 													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
@@ -506,8 +506,8 @@
 												<string>Point</string>
 												<key>value</key>
 												<array>
-													<real>0.4130859375</real>
-													<real>-3.040771484375</real>
+													<real>0.5</real>
+													<real>0.5</real>
 												</array>
 											</dict>
 											<dict>
@@ -713,7 +713,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>0.0</real>
+													<real>41</real>
 													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
@@ -726,8 +726,8 @@
 												<string>Point</string>
 												<key>value</key>
 												<array>
-													<real>0.49002322554588318</real>
-													<real>-2.01708984375</real>
+													<real>0.5</real>
+													<real>0.5</real>
 												</array>
 											</dict>
 											<dict>
@@ -933,7 +933,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>5</real>
+													<real>26</real>
 													<integer>0</integer>
 													<integer>2</integer>
 													<integer>0</integer>
@@ -947,7 +947,7 @@
 												<key>value</key>
 												<array>
 													<real>0.5</real>
-													<real>-0.88330078125</real>
+													<real>0.5</real>
 												</array>
 											</dict>
 											<dict>
